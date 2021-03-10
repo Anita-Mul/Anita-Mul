@@ -6,7 +6,7 @@
   <img align="left" width="24px" src="https://pic4.zhimg.com/80/v2-88158afcff1e7f4b8b00a1ba81171b61_720w.png" />
 </a>
 <a href="https://blog.csdn.net/AnitaSun?spm=1004.2024.3001.5343">
-  <img align="left" width="26px" src="https://g.csdnimg.cn/static/logo/favicon32.icog" />
+  <img align="left" width="26px" src="https://wx3.sinaimg.cn/mw690/cd966a9aly1goelupy2pjj2013012a9t.jpg" />
 </a>
 <br>
 <br>
