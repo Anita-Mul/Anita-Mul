@@ -1,11 +1,11 @@
 ### 大家好, 我是[Anita-Mul](https://github.com/Anita-Mul)！
-<a href="https://weibo.com/p/100808085ea6c29ca833b98037fc3213baa168/super_index">
+<a href="">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/weibo.7jvxfl931w00.svg" />
 </a>
-<a href="https://www.zhihu.com/people/aaa-33-58">
+<a href="">
   <img align="left" width="24px" src="https://pic4.zhimg.com/80/v2-88158afcff1e7f4b8b00a1ba81171b61_720w.png" />
 </a>
-<a href="https://blog.csdn.net/AnitaSun?spm=1004.2024.3001.5343">
+<a href="">
   <img align="left" width="26px" src="https://wx3.sinaimg.cn/mw690/cd966a9aly1goelupy2pjj2013012a9t.jpg" />
 </a>
 <br>
