@@ -14,8 +14,8 @@
 
 <br />
 <p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Anita-Mul&show_icons=true&theme=Gradient" alt="Anita-Mul :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&layout=compact&theme=Gradient" alt="Anita-Mul :: Top Langs" />
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Anita-Mul&show_icons=true&theme=dracula" alt="Anita-Mul :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&layout=compact&theme=dracula" alt="Anita-Mul :: Top Langs" />
 </p
   
 
@@ -25,8 +25,8 @@
 ## 置顶
 <p align="left">
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=ELM_Node&theme=radical)](https://github.com/Anita-Mul/ELM_Node) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=AnitaOS&theme=synthwave)](https://github.com/Anita-Mul/AnitaOS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=ELM_Node&theme=dracula)](https://github.com/Anita-Mul/ELM_Node) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=AnitaOS&theme=dracula)](https://github.com/Anita-Mul/AnitaOS)
 [![ReadMe Card](http://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=HTTP-Server&theme=dracula)](https://github.com/Anita-Mul/HTTP-Server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anita-Mul&repo=tanhuajiaoyou&theme=dracula)](https://github.com/Anita-Mul/tanhuajiaoyou)
 
