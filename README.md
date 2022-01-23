@@ -14,8 +14,8 @@
 
 <br />
 <p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Anita-Mul&show_icons=true&theme=radical" alt="Anita-Mul :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&layout=compact&theme=radical" alt="Anita-Mul :: Top Langs" />
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Anita-Mul&show_icons=true&theme=Gradient" alt="Anita-Mul :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&layout=compact&theme=Gradient" alt="Anita-Mul :: Top Langs" />
 </p
   
 
