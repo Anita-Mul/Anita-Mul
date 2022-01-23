@@ -1,16 +1,7 @@
 <a href="https://blog.csdn.net/AnitaSun?spm=1038.2274.3001.5343">
   <img align="left" width="26px" src="https://wx3.sinaimg.cn/mw690/cd966a9aly1goelupy2pjj2013012a9t.jpg" />
 </a>
-
-<hr>
-<p align="right">
-  <a href="https://github.com/Astro2020-lovely?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Astro2020-lovely"/></a>
-  <a href="https://github.com/Astro2020-lovely?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Astro2020-lovely?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Astro2020-lovely">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Astro2020-lovely&style=for-the-badge"/></a>
-</p>
+<br/>
 <hr>
 <p align="center">
     <a href="#"><img alt="JavaScript" src="https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
@@ -21,11 +12,11 @@
     <a href="#"><img alt="HTML" src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="#"><img alt="MongoDB" src="https://camo.githubusercontent.com/61c6ad1edcbf1f1d03ce421a9d70c450b833acd582286de109d4a9f463acd1f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3465613934622e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-<hr>
 
+<br />
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=Anita-Mul&show_icons=true&theme=radical" alt="Anita-Mul :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&theme=Gradient" alt="Anita-Mul :: Top Langs" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-Mul&langs_count=10&theme=radical" alt="Anita-Mul :: Top Langs" />
 </p
   
 
