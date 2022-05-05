@@ -1,6 +1,9 @@
 <a href="https://blog.csdn.net/AnitaSun?spm=1038.2274.3001.5343">
   <img align="left" width="26px" src="https://wx3.sinaimg.cn/mw690/cd966a9aly1goelupy2pjj2013012a9t.jpg" />
 </a>
+<a href="https://juejin.cn/user/1811635884786839">
+  <img align="left" width="26px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" />
+</a>
 <br/>
 <!-- <p align="center">
     <a href="#"><img alt="JavaScript" src="https://camo.githubusercontent.com/9a794a64d79bb070a8009cf27eb31c989d09d43a65f95362c88ed6c28218319b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
